@@ -1,0 +1,65 @@
+﻿OnOff_FLag,AppReject,DateMonNam,Fin_NonFin,Pos_NonPos,Amount
+OnUs,Approve,Oct 2017,NonFinancial,NonPOS,0
+OnUs,Approve,Sep 2017,NonFinancial,NonPOS,0
+OnUs,Approve,Aug 2017,NonFinancial,NonPOS,0
+OnUs,Decline,Sep 2017,NonFinancial,NonPOS,133533200
+OnUs,Decline,Oct 2017,NonFinancial,NonPOS,21487700
+OnUs,Decline,Aug 2017,NonFinancial,NonPOS,11052600
+OffUsAcq,Approve,Oct 2017,NonFinancial,NonPOS,0
+OffUsAcq,Approve,Aug 2017,NonFinancial,NonPOS,0
+OffUsAcq,Approve,Sep 2017,NonFinancial,NonPOS,0
+RemoteOnUsIss,Approve,Sep 2017,NonFinancial,NonPOS,5000
+RemoteOnUsIss,Approve,Oct 2017,NonFinancial,NonPOS,0
+RemoteOnUsIss,Approve,Aug 2017,NonFinancial,NonPOS,0
+OffUsAcq,Decline,Oct 2017,NonFinancial,NonPOS,0
+OffUsAcq,Decline,Aug 2017,NonFinancial,NonPOS,0
+OffUsAcq,Decline,Sep 2017,NonFinancial,NonPOS,0
+RemoteOnUsIss,Decline,Oct 2017,NonFinancial,NonPOS,0
+RemoteOnUsIss,Decline,Aug 2017,NonFinancial,NonPOS,0
+RemoteOnUsIss,Decline,Sep 2017,NonFinancial,NonPOS,0
+OnUs,Approve,Sep 2017,Financial,NonPOS,2397523
+OnUs,Approve,Oct 2017,Financial,NonPOS,4032254
+OnUs,Approve,Aug 2017,Financial,NonPOS,1525464
+OnUs,Decline,Sep 2017,Financial,NonPOS,924900
+OnUs,Decline,Aug 2017,Financial,NonPOS,274300
+OnUs,Decline,Oct 2017,Financial,NonPOS,789909
+OffUsAcq,Approve,Sep 2017,Financial,NonPOS,11245000
+OffUsAcq,Approve,Aug 2017,Financial,NonPOS,10237600
+OffUsAcq,Decline,Oct 2017,Financial,NonPOS,7055300
+OffUsAcq,Decline,Sep 2017,Financial,NonPOS,4408600
+RemoteOnUsIss,Decline,Aug 2017,Financial,NonPOS,545120
+RemoteOnUsIss,Decline,Sep 2017,Financial,NonPOS,2156400
+RemoteOnUsIss,Decline,Oct 2017,Financial,NonPOS,1459400
+OffUsAcq,Decline,Aug 2017,Financial,NonPOS,4150100
+RemoteOnUsIss,Approve,Oct 2017,Financial,NonPOS,7755600
+OffUsAcq,Approve,Oct 2017,Financial,NonPOS,14663700
+RemoteOnUsIss,Approve,Aug 2017,Financial,NonPOS,2491300
+RemoteOnUsIss,Approve,Sep 2017,Financial,NonPOS,5479000
+RemoteOnUsIss,Approve,Sep 2017,Financial,POS,1256450
+RemoteOnUsIss,Approve,Oct 2017,Financial,POS,2178324
+RemoteOnUsIss,Approve,Aug 2017,Financial,POS,586144
+RemoteOnUsIss,Decline,Oct 2017,Financial,POS,1596005
+RemoteOnUsIss,Decline,Sep 2017,Financial,POS,207617
+RemoteOnUsIss,Decline,Aug 2017,Financial,POS,151197
+FSS PG ECOM (Debit + PIN),Decline,Aug 2017,Financial,POS,2867
+FSS PG ECOM (Debit + PIN),Approve,Aug 2017,Financial,POS,1138
+FSS PG ECOM (Debit + PIN),Approve,Oct 2017,Financial,POS,1790
+RemoteOnUsIss,Decline,Sep 2017,,,10000
+ECOM,Decline,Oct 2017,Financial,NonPOS,0
+ECOM,Decline,Sep 2017,Financial,NonPOS,0
+ECOM,Decline,Aug 2017,Financial,NonPOS,0
+ECOM,Approve,Oct 2017,Financial,NonPOS,0
+ECOM,Approve,Sep 2017,Financial,NonPOS,0
+ECOM,Approve,Aug 2017,Financial,NonPOS,0
+IMPS Remitter,Approve,Sep 2017,Financial,NonPOS,18898880
+IMPS Benificary,Approve,Aug 2017,Financial,NonPOS,7011156
+IMPS Benificary,Approve,Sep 2017,Financial,NonPOS,18418378
+IMPS Remitter,Approve,Aug 2017,Financial,NonPOS,9688752
+IMPS Remitter,Approve,Oct 2017,Financial,NonPOS,22466322
+IMPS Remitter,Decline,Aug 2017,Financial,NonPOS,181770
+IMPS Remitter,Decline,Oct 2017,Financial,NonPOS,2481613
+IMPS Remitter,Decline,Sep 2017,Financial,NonPOS,690818
+IMPS Benificary,Decline,Oct 2017,Financial,NonPOS,584114
+IMPS Benificary,Decline,Aug 2017,Financial,NonPOS,2331172
+IMPS Benificary,Decline,Sep 2017,Financial,NonPOS,581566
+IMPS Benificary,Approve,Oct 2017,Financial,NonPOS,19621638

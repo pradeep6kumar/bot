@@ -13,8 +13,9 @@ import string
 import pandas as pd
 from datetime import datetime,date,timedelta
 
+value_dir = os.getcwd()
 ##------------------------------------------------------------------------------------------------------
-os.chdir(r"C:\Users\pradeep4.kumar\Downloads\telegrambot\yesterday")
+os.chdir(r"\data_01Nov2017")
 
 obj =[]
 with open("mtd_yesterday_"+datetime.strftime(date.today() - timedelta(1) , "%Y%b%d")+".pickle","rb") as pkl:
@@ -28,7 +29,7 @@ mtd_yesterday = obj[0]
 del obj
 ##creating a namespace called mtd_yesterday for calculated of last day
 ##-----------------------------------------------------------------------------------------------------
-os.chdir(r"C:\Users\pradeep4.kumar\Downloads\telegrambot")
+os.chdir(value_dir)
 exec(open('fytd.py').read())
 
 
@@ -43,7 +44,7 @@ approve_ids = (440672469,403007169, 371351771)
 #--------------Pandas Processing------------------------------------------------#
 #import numpy as np
 
-PATH = r"C:\Users\pradeep4.kumar\Downloads\telegrambot\data_02Nov2017"
+PATH = r"\data_02Nov2017"
 os.chdir(PATH)
 def importing_csv(fname):
     df = pd.read_csv(fname, header=0)
